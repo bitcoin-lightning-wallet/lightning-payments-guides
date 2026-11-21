@@ -85,3 +85,9 @@ single-use payment hash, and attempting a second payment to a new invoice risks 
 
 Capacity. A route can carry a small payment and not a large one, so the same pair of wallets
 succeeds at one size and fails at another.
+
+## Related guides
+
+- [How to send a Lightning payment, step by step](https://github.com/bitcoin-lightning-wallet/lightning-payments-guides/blob/HEAD/send-a-lightning-payment.md)
+- [How to receive a Lightning payment and read the invoice](https://github.com/bitcoin-lightning-wallet/lightning-payments-guides/blob/HEAD/receive-a-lightning-payment-and-read-an-invoice.md)
+

@@ -67,3 +67,8 @@ Not in this wallet. That choice belongs to node software built for operators.
 The funds return on-chain, though the timing and any penalty depend on whether the close was
 cooperative. The sequence is in
 [what happens when a channel closes](https://github.com/bitcoin-lightning-wallet/lightning-payments-guides/blob/HEAD/lightning-channel-closing-and-inactivity.md).
+
+## Related guides
+
+- [What happens when a channel closes or a wallet goes quiet](https://github.com/bitcoin-lightning-wallet/lightning-payments-guides/blob/HEAD/lightning-channel-closing-and-inactivity.md)
+

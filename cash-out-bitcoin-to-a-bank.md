@@ -83,3 +83,8 @@ own time on top, and neither is controlled by the wallet.
 Recording what you sold, when, and for how much is your responsibility, and the wallet's history is
 the record of the transfer rather than of the sale. The KYC and reporting side of the product is in
 [KYC, the Visa card and how Lightning Pay makes money](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/lightning-pay-kyc-visa-card-and-revenue.md).
+
+## Related guides
+
+- [Moving bitcoin between Lightning Pay and exchanges or Cash App](https://github.com/bitcoin-lightning-wallet/lightning-payments-guides/blob/HEAD/move-bitcoin-to-exchanges-or-cash-app.md)
+

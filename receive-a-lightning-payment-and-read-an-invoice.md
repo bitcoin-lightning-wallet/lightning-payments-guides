@@ -81,3 +81,9 @@ No. An invoice is single-use. Two payers need two invoices, which the wallet cre
 
 Not to the wallet. If a channel has to be opened to accept the payment, the on-chain fee for opening
 it is the real cost, and it is paid once rather than per payment.
+
+## Related guides
+
+- [How to send a Lightning payment, step by step](https://github.com/bitcoin-lightning-wallet/lightning-payments-guides/blob/HEAD/send-a-lightning-payment.md)
+- [Why a Lightning payment fails, sticks or shows a zero balance](https://github.com/bitcoin-lightning-wallet/lightning-payments-guides/blob/HEAD/why-a-lightning-payment-fails-or-sticks.md)
+

@@ -83,3 +83,8 @@ you can hold it and still be unable to send it until the wallet rebalances or op
 
 Only with an on-chain send. A bitcoin address cannot receive a Lightning payment, and an invoice
 cannot receive an on-chain one. The two rails are separate and a mismatch is not reversible.
+
+## Related guides
+
+- [How to receive a Lightning payment and read the invoice](https://github.com/bitcoin-lightning-wallet/lightning-payments-guides/blob/HEAD/receive-a-lightning-payment-and-read-an-invoice.md)
+

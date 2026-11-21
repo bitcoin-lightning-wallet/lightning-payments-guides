@@ -78,3 +78,10 @@ Because it is on-chain and waiting for blocks. Lightning deposits do not have th
 
 Only if their app gives you an invoice or an address. Both apps need the request to come from the
 receiving side; there is no way to push bitcoin at a tag.
+
+## Related guides
+
+- [Cashing out bitcoin to a bank account](https://github.com/bitcoin-lightning-wallet/lightning-payments-guides/blob/HEAD/cash-out-bitcoin-to-a-bank.md)
+- [Buying bitcoin and where you can actually spend it](https://github.com/bitcoin-lightning-wallet/lightning-payments-guides/blob/HEAD/buy-and-spend-bitcoin.md)
+- [Sending bitcoin between the on-chain network and Lightning](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/on-chain-to-lightning-transfers.md)
+

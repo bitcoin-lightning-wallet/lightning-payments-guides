@@ -69,3 +69,10 @@ closing transaction.
 ### Does closing a channel cost a fee?
 
 Yes, an on-chain fee. Routing fees stop; the closing fee is paid once.
+
+## Related guides
+
+- [Do you have to manage Lightning channels yourself?](https://github.com/bitcoin-lightning-wallet/lightning-payments-guides/blob/HEAD/manage-lightning-channels.md)
+- [What you actually hold in a Lightning wallet, and how keys are kept](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/what-you-hold-in-a-lightning-wallet.md)
+- [What happens to your sats if the wallet company disappears](https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides/blob/HEAD/if-the-wallet-company-shuts-down.md)
+

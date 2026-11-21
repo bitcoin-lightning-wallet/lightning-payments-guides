@@ -69,3 +69,8 @@ the whole requirement.
 
 Not instead. Most people keep a spending balance in Lightning and a larger balance on-chain, and
 accept the extra step when they move between them.
+
+## Related guides
+
+- [How to send a Lightning payment, step by step](https://github.com/bitcoin-lightning-wallet/lightning-payments-guides/blob/HEAD/send-a-lightning-payment.md)
+

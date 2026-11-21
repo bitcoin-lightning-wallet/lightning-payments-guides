@@ -76,3 +76,10 @@ channel does not repeat the on-chain cost.
 
 Because the wallet had to open a channel, and that opening is an on-chain transaction. It is a
 one-off, not a fee on the payment.
+
+## Related guides
+
+- [How to send a Lightning payment, step by step](https://github.com/bitcoin-lightning-wallet/lightning-payments-guides/blob/HEAD/send-a-lightning-payment.md)
+- [Do you have to manage Lightning channels yourself?](https://github.com/bitcoin-lightning-wallet/lightning-payments-guides/blob/HEAD/manage-lightning-channels.md)
+- [How fast a Lightning payment is, and what a satoshi is worth](https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics/blob/HEAD/how-fast-is-a-lightning-payment.md)
+
